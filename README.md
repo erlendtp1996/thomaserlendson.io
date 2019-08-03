@@ -19,4 +19,4 @@ Single Application License ($16)
 <hr/>
 
 This html file is intended to act as an online resume/portfolio.
-Designed to be hosted on AWS as a static page. Images and CSS files not included.
+Hosted in an s3 bucket.
